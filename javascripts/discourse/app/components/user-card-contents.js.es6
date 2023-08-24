@@ -1,4 +1,4 @@
-import { default as userCardContents } from "discourse/app/components/user-card-contents";
+import { default as userCardContents } from "discourse/app/components/user-card-contents.js";
 import DiscourseURL from "discourse/lib/url";
 
 export default userCardContents.extend({
